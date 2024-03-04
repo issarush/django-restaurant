@@ -1,1 +1,1 @@
-# djangocat
+# Django Restaurant
